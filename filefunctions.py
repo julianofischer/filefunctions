@@ -1,4 +1,12 @@
-#author: Juliano Fischer Naves
+# -*- coding: utf-8 -*-
+"""
+    Some functions to handle data intended to be plotted through 
+    matplotlib
+"""
+
+__title__ = "filefunctions"
+__author__ = "Juliano Fischer Naves"
+__license__ = "Apache License 2.0"
 #date: Dec., 11, 2016
 
 def extract_lines(myfile):
